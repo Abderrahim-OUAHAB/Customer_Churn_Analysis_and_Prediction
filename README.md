@@ -1,1 +1,1 @@
-[](viz.png)
+ ![Alt text](viz.png)
